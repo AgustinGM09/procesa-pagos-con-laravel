@@ -2,6 +2,7 @@
 
 namespace App\Services;
 
+use Illuminate\Http\Request;
 use App\Traits\ConsumesExternalServices;
 
 class CurrencyConversionService
